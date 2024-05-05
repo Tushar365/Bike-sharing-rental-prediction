@@ -1,6 +1,8 @@
 Bike-Sharing Rental Prediction with Regression🚲🚲
 
 This repository predicts hourly bike rental demand by combining historical usage patterns with weather data.
+![Alt text for your photo](https://media.licdn.com/dms/image/C4D12AQFV3R5OGtkEaA/article-cover_image-shrink_600_2000/0/1593765632600?e=2147483647&v=beta&t=Xy0hLSScDLBAzRJTnxcwyWMAsy4MxGL5Hii2XJyHtf0)
+
 
 
 Project Goal:
